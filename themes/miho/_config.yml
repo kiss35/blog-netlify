@@ -113,8 +113,13 @@ changyan_appkey: false
 # 友言，输入id
 youyan_id: false
 # disqus
-disqus: true
-shortName: huja.disqus.com
+disqus: false
+# gitment  https://github.com/imsun/gitment
+gitment:
+  owner: 'kiss35'   #你的 GitHub ID
+  repo: 'https://github.com/kiss35/blog-netlify.git'   #存储评论的 repo
+  client_id: '2a54b7dac6fd9b5be548' #client ID
+  client_secret: '61867e54e4605168dd69a59b2688e96a4365c2d2'  #client secret
 
 # Analytics | 分析
 # 站长分析，输入站点id
