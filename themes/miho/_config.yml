@@ -115,7 +115,7 @@ youyan_id: false
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
-gitment:
+gitment: true
   owner: 'kiss35'   #你的 GitHub ID
   repo: 'https://huja.netlify.com'   #存储评论的 repo
   client_id: '2a54b7dac6fd9b5be548' #client ID
